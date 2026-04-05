@@ -3,13 +3,10 @@
 ## Overview
 This assignment covers various types of data visualisation using **Matplotlib**, **Pandas**, and **NumPy** in Python.
 
-## Requirements
-```
-pip install matplotlib pandas numpy
-```
+
 
 ## Folder Structure
-```
+
 Assignment3_Matplotlib/
 ├── Q1_Alphabet_LineChart/       → Line chart (Alphabet Inc. stock data)
 ├── Q2_Horizontal_Bar/           → Horizontal bar chart (Students vs Marks)
@@ -23,9 +20,3 @@ Assignment3_Matplotlib/
 └── Q10_Profit_Histogram/        → Histogram (Monthly profit ranges)
 ```
 
-## How to Run
-Open any folder and run the `.py` file:
-```
-python q1_alphabet_line_chart.py
-```
-Each script saves its chart as a `.png` file in the same folder.
